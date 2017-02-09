@@ -1,0 +1,4 @@
+On
+Off
+Up
+Down

@@ -1,0 +1,12 @@
+ControlDevice turn {Device} {State}
+ControlDevice turn the {Device} {State}
+ControlDevice turn my {Device} {State}
+ControlDevice turn {State} {Device}
+ControlDevice turn {State} the {Device}
+ControlDevice turn {State} my {Device}
+ControlDevice set {Device} to {State}
+ControlDevice set the {Device} to {State}
+ControlDevice set my {Device} to {State}
+ControlDevice move the {Device} {State}
+ControlDevice move my {Device} {State}
+ControlDevice move {Device} {State}
